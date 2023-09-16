@@ -1,5 +1,6 @@
 {
     "name": "hoc2023-md",
+    "version": "0.0.1",
     "dependencies": {
         "core": "*",
         "builder": "*"
