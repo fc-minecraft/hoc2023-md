@@ -7,7 +7,10 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "pillar2.md",
+        "pillar3.md",
+        "pillar4.md"
     ],
     "testFiles": [
         "test.ts"
@@ -19,5 +22,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
