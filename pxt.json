@@ -10,7 +10,8 @@
         "README.md",
         "pillar2.md",
         "pillar3.md",
-        "pillar4.md"
+        "pillar4.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
