@@ -5,7 +5,7 @@
 # Sound Detector
 
 ## Step 1
-LOUD NOISES
+SMART DOORLOCK
 
 ```ghost
 //

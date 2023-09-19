@@ -6,18 +6,18 @@
         "builder": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "pillar2.md",
         "pillar3.md",
         "pillar4.md",
         "tutorial-info-cache.json",
-        "scene1.md"
+        "scene1.md",
+        "scene2.md",
+        "scene3.md",
+        "scene4.md",
+        "scene5.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.7.11",
         "targetId": "minecraft"
