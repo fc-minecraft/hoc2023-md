@@ -12,7 +12,8 @@
         "pillar2.md",
         "pillar3.md",
         "pillar4.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "scene1.md"
     ],
     "testFiles": [
         "test.ts"
