@@ -26,5 +26,5 @@ Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads br
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.1
+artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.2
 ```
