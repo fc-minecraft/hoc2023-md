@@ -2,29 +2,31 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Smart Lawnmower
+# Lunch Time
+The automatic food dispensor is missing students it can't detect. Read through the code and update it so it's able to find students of all different heights.
 
 ## Step 1
-Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads breaking them! Read through the code and update it so the lawnmower will first check for sprinkler heads before continuing.
+
 
 ```ghost
-    hoc2023.scene2_GrassCut()
-    hoc2023.scene2_CheckSprinklerGrassCut()
-    hoc2023.scene2_LawnmowerNextRow()
-    hoc2023.scene2_LawnmowerMoveForward()
+    hoc2023.scene1_LunchTime()
+    hoc2023.scene1_DetectStudent()
+    hoc2023.scene1_ScanHorizontally()
+    hoc2023.scene1_SmartScan()
+    hoc2023.scene1_ServeLunch()
+    hoc2023.scene1_WaitStudent()
 ```
 ```template
-    for (let i = 0; i < 4; i++ ) {
-        hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023.scene2_GrassCut()
-        hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023.scene2_GrassCut()
-        hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023.scene2_GrassCut()    
-        hoc2023.scene2_LawnmowerNextRow()    
-    }  
+    while (hoc2023.scene1_LunchTime()) {
+        hoc2023.scene1_ScanHorizontally()
+        if (hoc2023.scene1_DetectStudent()) {
+            hoc2023.scene1_ServeLunch()
+        } else {
+            hoc2023.scene1_WaitStudent()
+        }
+    }
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.2
+artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.3
 ```
