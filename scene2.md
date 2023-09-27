@@ -29,5 +29,5 @@ LOUD NOISES
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.3
+artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.6
 ```
