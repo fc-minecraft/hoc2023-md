@@ -2,29 +2,30 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lunch Time
-The automatic food dispensor is missing students it can't detect. Read through the code and update it so it's able to find students of all different heights.
+# Sound Detector
 
 ## Step 1
-
+Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads breaking them! Read through the code and update it so the lawnmower will first check for sprinkler heads before continuing.
+LOUD NOISES
 
 ```ghost
-    hoc2023.scene1_LunchTime()
-    hoc2023.scene1_DetectStudent()
-    hoc2023.scene1_ScanHorizontally()
-    hoc2023.scene1_SmartScan()
-    hoc2023.scene1_ServeLunch()
-    hoc2023.scene1_WaitStudent()
+    hoc2023.scene2_GrassCut()
+    hoc2023.scene2_CheckSprinklerGrassCut()
+    hoc2023.scene2_LawnmowerNextRow()
+    hoc2023.scene2_LawnmowerMoveForward()
+//
 ```
 ```template
-    while (hoc2023.scene1_LunchTime()) {
-        hoc2023.scene1_ScanHorizontally()
-        if (hoc2023.scene1_DetectStudent()) {
-            hoc2023.scene1_ServeLunch()
-        } else {
-            hoc2023.scene1_WaitStudent()
-        }
-    }
+    for (let i = 0; i < 4; i++ ) {
+        hoc2023.scene2_LawnmowerMoveForward()
+        hoc2023.scene2_GrassCut()
+        hoc2023.scene2_LawnmowerMoveForward()
+        hoc2023.scene2_GrassCut()
+        hoc2023.scene2_LawnmowerMoveForward()
+        hoc2023.scene2_GrassCut()    
+        hoc2023.scene2_LawnmowerNextRow()    
+    }  
+//
 ```
 
 ```package
