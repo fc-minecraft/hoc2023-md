@@ -23,9 +23,8 @@ Set the ``||hoc2023:scan <type>||`` block to a `smart` scan.
         hoc2023.scene1_Scan()
         if (hoc2023.scene1_DetectStudent()) {
             hoc2023.scene1_ServeLunch()
-        } else {
-            hoc2023.scene1_WaitStudent()
         }
+        hoc2023.scene1_WaitStudent()
     }
 ```
 
