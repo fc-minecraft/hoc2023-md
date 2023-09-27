@@ -16,7 +16,7 @@ LOUD NOISES
 //
 ```
 ```template
-    for (let i = 0; i < 4; i++ ) {
+    for (let i = 0; i < 8; i++ ) {
         hoc2023.scene2_LawnmowerMoveForward()
         hoc2023.scene2_GrassCut()
         hoc2023.scene2_LawnmowerMoveForward()
