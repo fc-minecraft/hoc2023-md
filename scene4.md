@@ -41,7 +41,6 @@ hoc2023.scene4_WaitMinutes(5)
             hoc2023.scene4_LockDoor()
         }
     }
-    hoc2023.scene4_UserAdmin()
 
 ```
 
