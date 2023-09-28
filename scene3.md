@@ -15,5 +15,5 @@ BIRD TROUBLE
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.1
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.8
 ```

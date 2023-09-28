@@ -9,7 +9,7 @@ Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads br
 LOUD NOISES
 
 ```ghost
-    hoc2023.scene2_GrassCut()
+    scene2_GrassCut()
     hoc2023.scene2_CheckSprinklerGrassCut()
     hoc2023.scene2_LawnmowerNextRow()
     hoc2023.scene2_LawnmowerMoveForward()
@@ -29,5 +29,5 @@ LOUD NOISES
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.6
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.8
 ```

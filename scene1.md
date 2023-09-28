@@ -29,5 +29,5 @@ Set the ``||hoc2023:scan <type>||`` block to a `smart` scan.
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/hoc2023-ts#v0.0.5
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.8
 ```
