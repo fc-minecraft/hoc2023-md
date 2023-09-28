@@ -15,5 +15,5 @@ BOSS FIGHT PART 1
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.8
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.14
 ```
