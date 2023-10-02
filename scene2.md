@@ -5,7 +5,7 @@
 # Sound Detector
 
 ## Step 1
-Oh no!! The Smart Lawnmower isn't too smart! It's running over sprinkler heads breaking them! Read through the code and update it so the lawnmower will first check for sprinkler heads before continuing.
+Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads breaking them! Read through the code and update it so the lawnmower will first check for sprinkler heads before continuing.
 LOUD NOISES
 
 ```ghost
@@ -29,5 +29,5 @@ LOUD NOISES
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.17
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.18
 ```
