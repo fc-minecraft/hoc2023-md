@@ -13,7 +13,17 @@ hoc2023Objectives.pillar_AgentPlacePinkWoolBlock()
 for (let i = 0; i < 8; i++ ) {}
 ```
 ```template
-//
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
+for (let i = 0; i < 3; i++ ) {
+    hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+    hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Up)
+    hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Up)
+}
+for (let i = 0; i < 3; i++ ) {
+    hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+    hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
+}
 
 ```
 

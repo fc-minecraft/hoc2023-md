@@ -12,7 +12,23 @@ hoc2023Objectives.pillar_AgentMove()
 hoc2023Objectives.pillar_AgentPlacePinkWoolBlock()
 ```
 ```template
-//
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Up)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Up)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Up)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Up)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Up)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Up)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
+hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
+hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
 
 ```
 

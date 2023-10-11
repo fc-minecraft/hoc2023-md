@@ -29,5 +29,5 @@ LOUD NOISES
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.39
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.40
 ```
