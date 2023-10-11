@@ -10,7 +10,7 @@ Move the Agents to the training locations that best match the principle they rep
 ```ghost
 hoc2023RedAgent.scene5_RedAgent()
 hoc2023YellowAgent.scene5_YellowAgent()
-hoc2023.scene5_BlueAgent()
+hoc2023BlueAgent.scene5_BlueAgent()
 hoc2023GreenAgent.scene5_GreenAgent()
 ```
 ```template
@@ -19,5 +19,5 @@ hoc2023GreenAgent.scene5_GreenAgent()
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.25
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.26
 ```
