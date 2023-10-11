@@ -9,8 +9,8 @@ Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads br
 LOUD NOISES
 
 ```ghost
-    scene2_GrassCut()
-    hoc2023.scene2_CheckSprinklerGrassCut()
+    hoc2023YellowAgent.scene2_GrassCut()
+    hoc2023YellowAgent.scene2_CheckSprinklerGrassCut()
     hoc2023.scene2_LawnmowerNextRow()
     hoc2023.scene2_LawnmowerMoveForward()
 //
@@ -18,16 +18,16 @@ LOUD NOISES
 ```template
     for (let i = 0; i < 8; i++ ) {
         hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023.scene2_GrassCut()
+        hoc2023YellowAgent.scene2_GrassCut()
         hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023.scene2_GrassCut()
+        hoc2023YellowAgent.scene2_GrassCut()
         hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023.scene2_GrassCut()    
+        hoc2023YellowAgent.scene2_GrassCut()    
         hoc2023.scene2_LawnmowerNextRow()    
     }  
 //
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.18
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.31
 ```

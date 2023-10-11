@@ -14,13 +14,13 @@ Set the ``||hoc2023:scan <type>||`` block to a `smart` scan.
 ```ghost
     hoc2023.scene1_LunchTime()
     hoc2023.scene1_DetectStudent()
-    hoc2023.scene1_Scan()
+    hoc2023RedAgent.scene1_Scan()
     hoc2023.scene1_ServeLunch()
     hoc2023.scene1_WaitStudent()
 ```
 ```template
     while (hoc2023.scene1_LunchTime()) {
-        hoc2023.scene1_Scan()
+        hoc2023RedAgent.scene1_Scan()
         if (hoc2023.scene1_DetectStudent()) {
             hoc2023.scene1_ServeLunch()
         }
@@ -29,5 +29,5 @@ Set the ``||hoc2023:scan <type>||`` block to a `smart` scan.
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.14
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.30
 ```
