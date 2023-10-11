@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Sound Detector
+# Smart Doorlock
 
 ## Step 1
 SMART DOORLOCK
@@ -45,5 +45,5 @@ hoc2023.scene4_WaitMinutes(5)
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.37
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.39
 ```
