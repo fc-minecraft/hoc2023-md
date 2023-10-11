@@ -15,5 +15,5 @@ BIRD TROUBLE
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.14
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.37
 ```

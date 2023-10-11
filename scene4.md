@@ -45,5 +45,5 @@ hoc2023.scene4_WaitMinutes(5)
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.36
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.37
 ```

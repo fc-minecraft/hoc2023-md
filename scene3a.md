@@ -15,5 +15,5 @@ OBFUSCATED CODE
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.18
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.37
 ```
