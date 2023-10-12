@@ -6,7 +6,6 @@
 
 ## Step 1
 Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads breaking them! Read through the code and update it so the lawnmower will first check for sprinkler heads before continuing.
-LOUD NOISES
 
 ```ghost
     hoc2023Objectives.scene2_GrassCut()
