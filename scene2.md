@@ -31,5 +31,5 @@ Make sure the lawnmower is checking to see if there's a sprinkler before cutting
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.53
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.54
 ```
