@@ -36,5 +36,5 @@ hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.48
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.51
 ```

@@ -29,5 +29,5 @@ Set the ``||hoc2023Objectives:scan <type>||`` block to a `smart` scan.
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.48
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.51
 ```
