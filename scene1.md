@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lunch Time
+# Food Dispenser
 
 ## Step 1
 The automatic food dispensor is missing students it can't detect. Read through the code and update it so it's able to find students of all different heights.
@@ -29,5 +29,5 @@ Set the ``||hoc2023Objectives:scan <type>||`` block to a `smart` scan.
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.51
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.53
 ```

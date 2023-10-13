@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Sound Detector
+# Lawnmower
 
 ## Step 1
 Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads breaking them! Read through the code and update it so the lawnmower will first check for sprinkler heads before continuing.
@@ -31,5 +31,5 @@ Make sure the lawnmower is checking to see if there's a sprinkler before cutting
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.51
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.53
 ```

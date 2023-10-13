@@ -15,5 +15,5 @@ Coding is not currently needed. Exit coding to continue.
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.43
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.53
 ```
