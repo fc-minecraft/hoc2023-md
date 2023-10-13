@@ -8,7 +8,7 @@
 The automatic food dispensor is missing students it can't detect. Read through the code and update it so it's able to find students of all different heights.
 
 #### ~ tutorialhint 
-Set the ``||hoc2023:scan <type>||`` block to a `smart` scan.
+Set the ``||hoc2023Objectives:scan <type>||`` block to a `smart` scan.
 
 
 ```ghost
@@ -29,5 +29,5 @@ Set the ``||hoc2023:scan <type>||`` block to a `smart` scan.
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.43
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.48
 ```

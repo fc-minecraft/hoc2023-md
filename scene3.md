@@ -5,7 +5,10 @@
 # Bird Trouble
 
 ## Step 1
-Do the thing
+Now that we'd decoded the obfuscated words, we could see that the birds are being instructed to move the trash and drop it. Let's update the code so the birds bring the trash to the dumpster.
+
+#### ~ tutorialhint 
+Remove the ``||hoc2023Objectives: move trash||`` and ``||hoc2023Objectives: drop trash||`` with the new blocks we learned. Make sure to add them in the correct order.
 
 ```ghost
 hoc2023.scene3_SearchForGarbage()

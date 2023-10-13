@@ -5,7 +5,10 @@
 # Bird Trouble
 
 ## Step 1
-UNOBFUSCATED CODE
+You decoded the obfuscated words! We could see there's two unused blocks that might help us. Exit the coding window and see if you could find a dumpster to take the trash to.
+
+#### ~ tutorialhint 
+No coding is required here. Exit the coding window and find the dumpster.
 
 ```ghost
 hoc2023Disable.scene3_SearchForGarbage()

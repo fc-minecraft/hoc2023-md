@@ -5,7 +5,11 @@
 # Bird Trouble
 
 ## Step 1
-OBFUSCATED CODE
+We can't quite read the code because some of it is `obfuscated` which means unclear or obscured. Before we could fix the problem we need to decode those words. Let's follow the birds to see if we could figure out what this code is doing.
+
+#### ~ tutorialhint 
+No coding is required here. Exit the coding window and follow the birds.
+
 
 ```ghost
 hoc2023Disable.scene3_ObSearchForGarbage()
