@@ -25,7 +25,7 @@ for (let i = 0; i < 3; i++ ) {
 }
 for (let i = 0; i < 3; i++ ) {
     hoc2023Objectives.pillar_AgentMove(ForwardBackUpDown.Forward)
-    hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.up)
+    hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Up)
 }
 
 ```
