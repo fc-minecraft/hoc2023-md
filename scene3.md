@@ -47,5 +47,5 @@ while (hoc2023.scene3_SearchForGarbage()) {
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.54
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.55
 ```
