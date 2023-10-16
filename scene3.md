@@ -15,7 +15,6 @@ hoc2023.scene3_SearchForGarbage()
 hoc2023.scene3_Garbage()
 hoc2023.scene3_PickupGarbage()
 hoc2023Objectives.scene3_MoveGarbage()
-hoc2023Objectives.scene3_DropGarbage()
 hoc2023.scene3_Battery()
 hoc2023.scene3_FindUtilityBox()
 hoc2023.scene3_StartCharging()
@@ -30,7 +29,6 @@ while (hoc2023.scene3_SearchForGarbage()) {
     if (hoc2023.scene3_Garbage() == true) {
         hoc2023.scene3_PickupGarbage()
         hoc2023Objectives.scene3_MoveGarbage()
-        hoc2023Objectives.scene3_DropGarbage()
     }
     if (hoc2023.scene3_Battery() < 20) {
         hoc2023.scene3_FindUtilityBox()

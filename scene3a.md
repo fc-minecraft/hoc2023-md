@@ -16,7 +16,6 @@ hoc2023Disable.scene3_ObSearchForGarbage()
 hoc2023Disable.scene3_ObGarbage()
 hoc2023Disable.scene3_ObPickupGarbage()
 hoc2023Disable.scene3_ObMoveGarbage()
-hoc2023Disable.scene3_ObDropGarbage()
 hoc2023Disable.scene3_Battery()
 hoc2023Disable.scene3_FindUtilityBox()
 hoc2023Disable.scene3_StartCharging()
@@ -31,7 +30,6 @@ while (hoc2023Disable.scene3_ObSearchForGarbage()) {
     if (hoc2023Disable.scene3_ObGarbage() == true) {
         hoc2023Disable.scene3_ObPickupGarbage()
         hoc2023Disable.scene3_ObMoveGarbage()
-        hoc2023Disable.scene3_ObDropGarbage()
     }
     if (hoc2023Disable.scene3_Battery() < 20) {
         hoc2023Disable.scene3_FindUtilityBox()
