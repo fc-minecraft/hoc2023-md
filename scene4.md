@@ -5,7 +5,7 @@
 # Smart Doorlock
 
 ## Step 1
-Anyone can see the records of who has been using the doorlocks, which is a big problem for privacy and safety. We should change the code so that only administrators can look at the event logs.
+Anyone can see the records of who has been using the doorlocks, which is a big problem for privacy and safety. You should change the code so that only administrators can look at the event logs.
 
 #### ~ tutorialhint 
 Change the part of the code where it checks what kind of user you are. Only administrators should be allowed to access it.

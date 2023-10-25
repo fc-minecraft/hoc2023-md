@@ -5,7 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-We can't quite read the code because some of it are unclear and hidden. Before we could fix the problem we need to decode the secret words. Let's follow the birds to see if we could figure out what this code is doing. No coding is required here. Exit the coding window and follow the birds.
+``||scene5_RedMatchAgent:No coding is required here.|`` We can't quite understand the code because some of it is unclear and hidden. Before we could fix the problem we need to decode the secret words. Let's follow the birds to see if we could figure out what this code is doing. ``||scene5_RedMatchAgent:Exit the coding window and follow the birds.||``
 
 
 ```ghost

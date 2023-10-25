@@ -5,7 +5,7 @@
 # Lawnmower
 
 ## Step 1
-Oops! The Smart Lawnmower isn't too smart right now. It's running over sprinkler heads and causing damage. Let's make it smarter by changing some parts of the code. We'll replace certain blocks with new ones so that the lawnmower first checks for sprinkler heads before it starts cutting the grass.
+Oops! The Smart Lawnmower isn't too smart right now. It's running over sprinkler heads and causing damage. Let's make it smarter by changing some parts of the code. You'll replace certain blocks with new ones so that the lawnmower first checks for sprinkler heads before it starts cutting the grass.
 
 #### ~ tutorialhint 
 Remove the cut grass block with one of the other blocks in the tool box.
