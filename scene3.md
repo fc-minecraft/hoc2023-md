@@ -5,7 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-Now that we'd decoded the obfuscated words, we could see that the birds are being instructed to move the trash with nowhere to dispose of it. Let's update the code so the birds bring the trash to the dumpster.
+Now that we've uncovered the secret words, we can tell that the birds are told to pick up the trash, but there's nowhere to put it. Let's update the code by using different instructions so the birds can handle the trash in a better way, like flying it to the dumpster and dropping it there.
 
 #### ~ tutorialhint 
 Remove the ``||hoc2023Objectives: move trash||`` with the two new blocks we learned. Make sure to add them in the correct order.
@@ -45,5 +45,5 @@ while (hoc2023.scene3_SearchForGarbage()) {
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.56
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

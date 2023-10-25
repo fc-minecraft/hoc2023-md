@@ -5,7 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-We can't quite read the code because some of it is `obfuscated` which means unclear or obscured. Before we could fix the problem we need to decode those words. Let's follow the birds to see if we could figure out what this code is doing.
+We can't quite read the code because some of it is `obfuscated` which means unclear or obscured. Before we could fix the problem we need to decode the secret words. Let's follow the birds to see if we could figure out what this code is doing.
 
 #### ~ tutorialhint 
 No coding is required here. Exit the coding window and follow the birds.
@@ -46,5 +46,5 @@ while (hoc2023Disable.scene3_ObSearchForGarbage()) {
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.56
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

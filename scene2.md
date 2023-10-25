@@ -5,10 +5,10 @@
 # Lawnmower
 
 ## Step 1
-Oh no! The Smart Lawnmower isn't too smart! It's running over sprinkler heads breaking them! Read through the code and update it so the lawnmower will first check for sprinkler heads before continuing.
+Oops! The Smart Lawnmower isn't too smart right now. It's running over sprinkler heads and causing damage. Let's make it smarter by changing some parts of the code. We'll replace certain blocks with new ones so that the lawnmower first checks for sprinkler heads before it starts cutting the grass.
 
 #### ~ tutorialhint 
-Make sure the lawnmower is checking to see if there's a sprinkler before cutting the grass.
+Remove the cut grass block with one of the other blocks in the tool box.
 
 ```ghost
     hoc2023Objectives.scene2_GrassCut()
@@ -31,5 +31,5 @@ Make sure the lawnmower is checking to see if there's a sprinkler before cutting
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.54
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

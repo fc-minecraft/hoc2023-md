@@ -5,10 +5,10 @@
 # Smart Doorlock
 
 ## Step 1
-Anyone can access the event logs on the doorlock causing a major privacy and security issue. We need to update the code to make sure only admins can access the event logs.
+Anyone can see the records of who has been using the doorlocks, which is a big problem for privacy and safety. We should change the code so that only administrators can look at the event logs.
 
 #### ~ tutorialhint 
-Update where the code compares the user permissions. Only admins should have access. 
+Change the part of the code where it checks what kind of user you are. Only administrators should be allowed to access it.
 
 ```ghost
 hoc2023.scene4_HumanDetected()
@@ -48,5 +48,5 @@ hoc2023.scene4_WaitMinutes(5)
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.54
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

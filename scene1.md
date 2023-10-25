@@ -5,10 +5,10 @@
 # Food Dispenser
 
 ## Step 1
-The automatic food dispensor is missing students it can't detect. Read through the code and update it so it's able to find students of all different heights.
+The food dispenser that works by itself is not finding some students because it can't see them properly. Look at the code and make it better so it can find students of different heights. Pay attention to how the AI looks for and recognizes students.
 
 #### ~ tutorialhint 
-Set the ``||hoc2023Objectives:scan <type>||`` block to a `smart` scan.
+Try a different setting for the ``||hoc2023Objectives:scan <type>||`` block.
 
 
 ```ghost
@@ -29,5 +29,5 @@ Set the ``||hoc2023Objectives:scan <type>||`` block to a `smart` scan.
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.54
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

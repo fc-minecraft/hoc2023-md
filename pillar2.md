@@ -5,10 +5,10 @@
 # Yellow Pillar
 
 ## Step 1
-Use code to get to the top of the yellow pillar. Run the code first to see how it works, and then modify it to complete the bridge.
+This program won't get you to the Yellow Pillar. When you use it, you'll see what happens to the AGENT as it tries to make a bridge with blocks. Watch how the agent places the blocks and the mistakes it makes. Then, check the program and fix those mistakes.
 
 #### ~ tutorialhint 
-It seems like the Agent is placing some of the blocks in the wrong direction.
+It looks like the agent is placing some of the blocks in the wrong direction.
 
 ```ghost
 hoc2023Objectives.pillar_AgentMove()
@@ -36,5 +36,5 @@ hoc2023Objectives.pillar_AgentPlacePinkWoolBlock(UpDown.Down)
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.54
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

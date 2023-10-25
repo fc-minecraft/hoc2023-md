@@ -5,10 +5,10 @@
 # Green Pillar
 
 ## Step 1
-Use code to get to the top of the green pillar Run the code first to see how it works, and then modify it to complete the bridge.
+Use this code to make a bridge and get to the top of the green pillar. First, run the instructions to see what happens, and then make changes to finish building the bridge. This code has some special parts called "repeat" blocks, which means it does the same thing a number of times.
 
 #### ~ tutorialhint 
-It seems like the Agent is placing some of the blocks in the wrong direction.
+It looks like the agent is placing some of the blocks in the wrong direction.
 
 ```ghost
 hoc2023Objectives.pillar_AgentMove()
@@ -31,5 +31,5 @@ for (let i = 0; i < 3; i++ ) {
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.54
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

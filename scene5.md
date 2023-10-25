@@ -5,7 +5,7 @@
 # Agent Training
 
 ## Step 1
-Move the Agents to the training locations that best match the principle they represent.
+Use code to move the agents to the training spots that match the principle they represent the most.
 
 ```ghost
 hoc2023RedAgent.scene5_RedMatchAgent()
@@ -19,5 +19,5 @@ hoc2023GreenAgent.scene5_GreenMatchAgent()
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.60
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```

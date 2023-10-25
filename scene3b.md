@@ -5,7 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-You decoded the obfuscated words! We could see there's two unused blocks that might help us. Exit the coding window and see if you could find a dumpster to take the trash to.
+You figured out the hidden words! Now, we noticed there are two unused blocks that might be useful. Leave the coding screen and see if you can find a dumpster to put the trash into.
 
 #### ~ tutorialhint 
 No coding is required here. Exit the coding window and find the dumpster.
@@ -45,5 +45,5 @@ while (hoc2023Disable.scene3_SearchForGarbage()) {
 ```
 
 ```package
-hoc2023-ts=github:ReWrite-Media/hoc2023-ts#v0.0.56
+hoc2023-ts=github:ReWrite-Media/hoc2023-ts
 ```
