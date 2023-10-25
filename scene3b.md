@@ -5,10 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-You figured out the hidden words! Now, we noticed there are two unused blocks that might be useful. Leave the coding screen and see if you can find a dumpster to put the trash into.
-
-#### ~ tutorialhint 
-No coding is required here. Exit the coding window and find the dumpster.
+You figured out the hidden words! Now, we noticed there are two unused blocks that might be useful. Leave the coding screen and see if you can find a dumpster to put the trash into. No coding is required here. Exit the coding window and find the dumpster.
 
 ```ghost
 hoc2023Disable.scene3_SearchForGarbage()

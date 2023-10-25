@@ -5,10 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-We can't quite read the code because some of it are unclear and hidden. Before we could fix the problem we need to decode the secret words. Let's follow the birds to see if we could figure out what this code is doing.
-
-#### ~ tutorialhint 
-No coding is required here. Exit the coding window and follow the birds.
+We can't quite read the code because some of it are unclear and hidden. Before we could fix the problem we need to decode the secret words. Let's follow the birds to see if we could figure out what this code is doing. No coding is required here. Exit the coding window and follow the birds.
 
 
 ```ghost
