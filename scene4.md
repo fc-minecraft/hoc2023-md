@@ -5,10 +5,10 @@
 # Smart Doorlock
 
 ## Step 1
-Anyone can see the records of who has been using the doorlocks, which is a big problem for privacy and safety. You should change the code so that only administrators can look at the event logs.
+Anyone can see the access report showing who has been using the door locks, which is a big problem for privacy and security. We should change the code so that only the right people, such as admins, can see the reports.
 
 #### ~ tutorialhint 
-Change the part of the code where it checks what kind of user you are. Only administrators should be allowed to access it.
+Change the part of the code where it checks what kind of user you are. Only admins should be allowed to access it.
 
 ```ghost
 hoc2023.scene4_HumanDetected()

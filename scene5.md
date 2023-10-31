@@ -5,7 +5,7 @@
 # Agent Training
 
 ## Step 1
-Use code to move the agents to the training spots that match the principle they represent the most.
+Use code to move the AI Guides to the training spots that match the principle they represent the most.
 
 ```ghost
 hoc2023RedAgent.scene5_RedMatchAgent()

@@ -5,7 +5,7 @@
 # Food Dispenser
 
 ## Step 1
-The food dispenser that works by itself is not finding some students because it can't see them properly. Look at the code and make it better so it can find students of different heights. Pay attention to how the AI looks for and recognizes students.
+The food dispenser is not finding some students because it can't see them properly. Press the green arrow. Pay attention to how the AI looks for and recognizes students. Then, return to the code and make it fair and inclusive so that it finds students of ALL heights. 
 
 #### ~ tutorialhint 
 Try a different setting for the ``||hoc2023Objectives:scan <type>||`` block.
