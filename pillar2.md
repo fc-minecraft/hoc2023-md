@@ -5,7 +5,7 @@
 # Yellow Pillar
 
 ## Step 1
-This program won't get you to the Yellow Pillar. When you use it, you'll see what happens to the AGENT as it tries to make a bridge with blocks. Watch how the agent places the blocks and the mistakes it makes. Then, check the program and fix those mistakes.
+This code won't get you to the Yellow Pillar. Press the green button and watch the AGENT build. Notice the mistakes the AGENT makes. Fix those mistakes and get the AGENT to build a bridge that you can cross to the Yellow Pillar.
 
 #### ~ tutorialhint 
 It looks like the agent is not completing the bridge.
