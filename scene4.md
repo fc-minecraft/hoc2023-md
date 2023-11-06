@@ -34,14 +34,6 @@ hoc2023.scene4_WaitMinutes(5)
             } else {
                 hoc2023.scene4_DisableLogViewing()
             }
-            hoc2023.scene4_UnlockDoor()
-            hoc2023.scene4_LogAuthorizedEvent()
-        } else {
-            hoc2023.scene4_LogUnauthorizedEvent()
-        }
-        if (hoc2023.scene4_DoorClosed()) {
-            hoc2023.scene4_WaitMinutes(5)
-            hoc2023.scene4_LockDoor()
         }
     }
 
