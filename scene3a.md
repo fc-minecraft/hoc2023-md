@@ -28,15 +28,6 @@ while (hoc2023Disable.scene3_ObSearchForGarbage()) {
         hoc2023Disable.scene3_ObPickupGarbage()
         hoc2023Disable.scene3_ObMoveGarbage()
     }
-    if (hoc2023Disable.scene3_Battery() < 20) {
-        hoc2023Disable.scene3_FindUtilityBox()
-        hoc2023Disable.scene3_StartCharging()
-        while (hoc2023Disable.scene3_Charging()) {
-            if (hoc2023Disable.scene3_Battery() > 80) {
-                hoc2023Disable.scene3_StopCharging()
-            }
-        }
-    }
     hoc2023Disable.scene3_ContinueFlightLoop()
 }
 

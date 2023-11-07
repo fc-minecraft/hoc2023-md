@@ -27,15 +27,6 @@ while (hoc2023Disable.scene3_SearchForGarbage()) {
         hoc2023Disable.scene3_PickupGarbage()
         hoc2023Disable.scene3_MoveGarbage()
     }
-    if (hoc2023Disable.scene3_Battery() < 20) {
-        hoc2023Disable.scene3_FindUtilityBox()
-        hoc2023Disable.scene3_StartCharging()
-        while (hoc2023Disable.scene3_Charging()) {
-            if (hoc2023Disable.scene3_Battery() > 80) {
-                hoc2023Disable.scene3_StopCharging()
-            }
-        }
-    }
     hoc2023Disable.scene3_ContinueFlightLoop()
 }
 
