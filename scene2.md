@@ -20,11 +20,8 @@ Remove the ``||hoc2023Objectives:cut grass||`` block with one of the other block
 ```template
     for (let i = 0; i < 8; i++ ) {
         hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023Objectives.scene2_GrassCut()
         hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023Objectives.scene2_GrassCut()
         hoc2023.scene2_LawnmowerMoveForward()
-        hoc2023Objectives.scene2_GrassCut()    
         hoc2023.scene2_LawnmowerNextRow()    
     }  
 //
