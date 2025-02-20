@@ -19,7 +19,18 @@
         "scene3a.md",
         "scene3b.md",
         "no_code.md",
-        "scene5.md"
+        "scene5.md",
+        "ar/pillar2.md",
+        "ar/pillar3.md",
+        "ar/pillar4.md",
+        "ar/scene1.md",
+        "ar/scene2.md",
+        "ar/scene3.md",
+        "ar/scene4.md",
+        "ar/scene3a.md",
+        "ar/scene3b.md",
+        "ar/no_code.md",
+        "ar/scene5.md"        
     ],
     "testFiles": [],
     "targetVersions": {
