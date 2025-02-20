@@ -5,11 +5,11 @@
 # Food Dispenser
 
 ## Step 1
-The food dispenser is not finding some students because it can't see them properly. Press the green arrow. Pay attention to how the AI looks for and recognizes students. Then, return to the code and make it fair and inclusive so that it finds students of ALL heights. 
+جهاز توزيع الطعام لا يتمكن من التعرف على بعض الطلاب لأنه لا يستطيع رؤيتهم بشكل صحيح. اضغط على السهم الأخضر. انتبه إلى كيفية بحث الذكاء الاصطناعي عن الطلاب والتعرف عليهم. بعد ذلك، عد إلى الكود واجعله عادلا وشاملا بحيث يتمكن من التعرف على الطلاب من جميع الأطوال.
 
-Try a different setting for the ``||hoc2023Objectives:scan <type>||`` block.
-#### ~ tutorialhint 
-Try a different setting for the ``||hoc2023Objectives:scan <type>||`` block.
+جرب إعدادا مختلفا للبلوك ``||hoc2023Objectives:scan <type>||`` .
+#### ~ tutorialhint  
+جرب إعدادا مختلفا للبلوك ``||hoc2023Objectives:scan <type>||`` .
 
 
 ```ghost

@@ -5,7 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-``||scene5_RedMatchAgent:No coding is required here.|`` We can't quite understand the code because some of it is unclear and hidden. Before we could fix the problem we need to decode the secret words. Let's follow the birds to see if we could figure out what this code is doing. ``||scene5_RedMatchAgent:Exit the coding window and follow the birds.||``
+``||scene5_RedMatchAgent:لا يوجد ترميز مطلوب هنا.|`` لا يمكننا فهم الشيفرة بشكل كامل لأن بعض أجزائها غير واضحة ومخفية. قبل أن نتمكن من حل المشكلة، نحتاج إلى فك رموز الشفرات السرية. لنتبع الطيور لنرى إذا كان بإمكاننا اكتشاف ما تفعله هذه الشيفرة. ``||scene5_RedMatchAgent:اخرج من نافذة الترميز واتبع الطيور.||``
 
 
 ```ghost

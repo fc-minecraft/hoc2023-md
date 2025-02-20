@@ -5,10 +5,10 @@
 # Yellow Pillar
 
 ## Step 1
-This code won't get you to the Yellow Pillar. Press the green button and watch the AGENT build. Notice the mistakes the AGENT makes. Fix those mistakes and get the AGENT to build a bridge that you can cross to the Yellow Pillar.
+هذا الكود  لن يوصلك إلى العمود الأصفر. اضغط على الزر الأخضر وراقب كيفية بناء الروبوت للجسر. انتبه للأخطاء التي يرتكبها الروبوت، ثم قم بتصحيحها حتى يتمكن من بناء جسر يمكنك عبوره إلى العمود الأصفر.
 
-#### ~ tutorialhint 
-It looks like the agent is not completing the bridge.
+#### ~ tutorialhint  
+يبدو أن الروبوت لا يكمل بناء الجسر.
 
 ```ghost
 hoc2023Objectives.pillar_AgentMove()

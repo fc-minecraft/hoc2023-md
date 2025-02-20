@@ -5,7 +5,7 @@
 # Agent Training
 
 ## Step 1
-Use code to move the AI Guides to the training spots that match the principle they represent the most.
+استخدم الشيفرة لنقل الأدلة الذكية إلى المواقع التدريبية التي تتوافق بشكل أفضل مع المبدأ الذي تعبر عنه.
 
 ```ghost
 hoc2023RedAgent.scene5_RedMatchAgent()

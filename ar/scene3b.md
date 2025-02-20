@@ -5,7 +5,7 @@
 # Bird Trouble
 
 ## Step 1
-``||scene5_RedMatchAgent:No coding is required here.|`` Now, we noticed there are two unused blocks that might be useful. Leave the coding screen and see if you can find a dumpster to put the trash into. ``||scene5_RedMatchAgent:Exit the coding window and find the dumpster.||``
+``||scene5_RedMatchAgent:لا يوجد ترميز مطلوب هنا.|`` لقد لاحظنا وجود بلوكين غير مستخدمين قد يكون لهما فائدة.  اخرج من نافذة البرمجة وابحث عن حاوية نفايات لوضع القمامة فيها. ``||scene5_RedMatchAgent:اخرج من نافذة الترميز وابحث عن سلة المهملات.||``
 
 ```ghost
 hoc2023Disable.scene3_SearchForGarbage()

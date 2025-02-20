@@ -5,10 +5,10 @@
 # Green Pillar
 
 ## Step 1
-Use this code to make a bridge that reaches the Green Pillar. Press the green button to see what happens. Return and make changes to finish building the bridge. This code has some special parts called "repeat" blocks, which means it loops the same thing a number of times.
+استخدم هذا الكود لبناء جسر يصل إلى العمود الأخضر. اضغط على الزر الأخضر لترى ما سيحدث. عد وأجرِ التعديلات اللازمة لإكمال بناء الجسر. يحتوي هذا الكود على بعض الأجزاء الخاصة المعروفة باسم "تكرار"، مما يعني تكرار نفس العملية لعدد معين من المرات.
 
 #### ~ tutorialhint 
-Try changing the number inside the "repeat" block.
+حاول تغيير الرقم داخل بلوك "تكرار".
 
 ```ghost
 hoc2023Objectives.pillar_AgentMove()

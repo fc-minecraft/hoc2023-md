@@ -5,7 +5,7 @@
 # Pillar 4
 
 ## Step 1
-Use blocks better with the help of AI to get over the thing.
+استخدم البلوكات بشكل أفضل بمساعدة الذكاء الاصطناعي لتجاوز العقبات.
 
 ```ghost
 //

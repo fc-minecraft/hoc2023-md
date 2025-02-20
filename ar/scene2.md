@@ -5,10 +5,10 @@
 # Lawnmower
 
 ## Step 1
-Press the green arrow to test the Smart Mower's code. Running over sprinkler heads and causing damage? It isn't looking too smart now! Let's make it Safe and Reliable by changing its code so that it checks for sprinkler heads BEFORE it starts cutting the grass.
+اضغط على السهم الأخضر لاختبار كود جزازة العشب الذكية لقص العشب. هل تتسبب في دهس رؤوس الرشاشات وإحداث أضرار؟ يبدو أنها ليست ذكية تماما! لنجعلها آمنة وموثوقة من خلال تعديل كودها ليتحقق من وجود رؤوس الرشاشات قبل أن تبدأ في قص العشب.
 
-#### ~ tutorialhint 
-Remove the ``||hoc2023Objectives:cut grass||`` block with one of the other blocks in the tool box.
+#### ~ tutorialhint  
+قم بإزالة البلوك ``||hoc2023Objectives:cut grass||`` واستبدله بإحدى البلوكات الأخرى الموجودة في صندوق الأدوات
 
 ```ghost
     hoc2023Objectives.scene2_GrassCut()

@@ -5,7 +5,7 @@
 # No Code
 
 ## Step 1
-Coding is not currently needed. Exit coding to continue.
+البرمجة غير مطلوبة في الوقت الحالي. يرجى الخروج من وضع البرمجة للمتابعة.
 
 ```ghost
 null
