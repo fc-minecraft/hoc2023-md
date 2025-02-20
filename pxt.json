@@ -30,11 +30,11 @@
         "ar/scene3a.md",
         "ar/scene3b.md",
         "ar/no_code.md",
-        "ar/scene5.md"        
+        "ar/scene5.md"
     ],
     "testFiles": [],
     "targetVersions": {
-        "target": "1.7.25",
+        "target": "2.0.30",
         "targetId": "minecraft"
     },
     "supportedTargets": [
