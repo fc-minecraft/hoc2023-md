@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Agent Training
+# Обучение Агента
 
 ## Step 1
-Use code to move the AI Guides to the training spots that match the principle they represent the most.
+Используй код, чтобы переместить ИИ-агентов на тренировочные места, которые наиболее соответствуют принципу, который они представляют.
 
 ```ghost
 hoc2023RedAgent.scene5_RedMatchAgent()

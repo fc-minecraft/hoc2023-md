@@ -2,14 +2,14 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Food Dispenser
+# Автомат для выдачи еды
 
 ## Step 1
-The food dispenser is not finding some students because it can't see them properly. Press the green arrow. Pay attention to how the AI looks for and recognizes students. Then, return to the code and make it fair and inclusive so that it finds students of ALL heights. 
+Автомат с едой не находит некоторых учеников, потому что не может их хорошо рассмотреть. Нажми зеленую стрелку. Обрати внимание, как ИИ ищет и распознает учеников. Затем вернись к коду и сделай его справедливым и инклюзивным, чтобы он находил учеников ВСЕХ ростов.
 
-Try a different setting for the ``||hoc2023Objectives:scan <type>||`` block.
+Попробуй использовать другую настройку для блока ``||hoc2023Objectives:scan <type>||``.
 #### ~ tutorialhint 
-Try a different setting for the ``||hoc2023Objectives:scan <type>||`` block.
+Попробуй использовать другую настройку для блока ``||hoc2023Objectives:scan <type>||``.
 
 
 ```ghost

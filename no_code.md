@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# No Code
+# Нет задания
 
 ## Step 1
-Coding is not currently needed. Exit coding to continue.
+Писать код в данный момент не требуется. Выйди из интерфейса, чтобы продолжить.
 
 ```ghost
 null

@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Smart Doorlock
+# Умный дверной замок
 
 ## Step 1
-Anyone can see the access report showing who has been using the door locks, which is a big problem for privacy and security. We should change the code so that only the right people, such as admins, can see the reports.
+Любой может видеть отчет о доступе, показывающий, кто использовал дверные замки, что является большой проблемой для конфиденциальности и безопасности. Нам нужно изменить код так, чтобы отчеты могли видеть только нужные люди, такие как администраторы.
 
 #### ~ tutorialhint 
-Change the part of the code where it checks what kind of user you are. Only admins should be allowed to access it.
+Измени часть кода, где проверяется, какой ты пользователь. Только администраторам должно быть разрешено получать доступ к отчету.
 
 ```ghost
 hoc2023.scene4_HumanDetected()

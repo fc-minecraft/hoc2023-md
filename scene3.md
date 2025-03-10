@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Bird Trouble
+# Проблема с птицами
 
 ## Step 1
-Now that we've uncovered the secret words, we can tell that the birds are told to pick up the trash, but there's nowhere to put it. Let's update the code by using different instructions so the birds can handle the trash in a better way, like flying it to the dumpster and dropping it there.
+Теперь, когда мы раскрыли секретные слова, мы понимаем, что птицам велено подбирать мусор, но некуда его девать. Давай обновим код, используя другие инструкции, чтобы птицы могли лучше справляться с мусором, например, отнести его к мусорному баку и выбросить там.
 
 #### ~ tutorialhint 
-Remove the ``||hoc2023Objectives: move trash||`` with the two new blocks we learned. Make sure to add them in the correct order.
+Замени ``||hoc2023Objectives: move trash||`` двумя новыми блоками, которые мы изучили. Убедись, что добавили их в правильном порядке.
 
 ```ghost
 hoc2023.scene3_SearchForGarbage()

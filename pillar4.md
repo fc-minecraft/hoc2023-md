@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Pillar 4
+# Столб
 
 ## Step 1
-Use blocks better with the help of AI to get over the thing.
+Используй блоки лучше с помощью ИИ, чтобы преодолеть препятствие.
 
 ```ghost
 //

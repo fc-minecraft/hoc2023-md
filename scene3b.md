@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Bird Trouble
+# Проблема с птицами
 
 ## Step 1
-``||scene5_RedMatchAgent:No coding is required here.|`` Now, we noticed there are two unused blocks that might be useful. Leave the coding screen and see if you can find a dumpster to put the trash into. ``||scene5_RedMatchAgent:Exit the coding window and find the dumpster.||``
+``||scene5_RedMatchAgent:Здесь код не требуется.|`` Теперь мы заметили, что есть два неиспользованных блока, которые могут быть полезны. Выйди из окна кодирования и посмотри, сможешь ли ты найти мусорный бак, чтобы выбросить туда мусор. ``||scene5_RedMatchAgent:Выйди из окна кодирования и следуй за птицами.||``
 
 ```ghost
 hoc2023Disable.scene3_SearchForGarbage()

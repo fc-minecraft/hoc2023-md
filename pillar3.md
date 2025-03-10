@@ -2,13 +2,14 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Green Pillar
+# Зеленый столб
 
 ## Step 1
-Use this code to make a bridge that reaches the Green Pillar. Press the green button to see what happens. Return and make changes to finish building the bridge. This code has some special parts called "repeat" blocks, which means it loops the same thing a number of times.
+Используй этот код, чтобы построить мост, который достигает Зеленого Столба. Нажми зеленую кнопку, чтобы увидеть, что произойдет. Вернись и внеси изменения, чтобы завершить строительство моста. В этом коде есть специальные части, называемые "повторить" блоками, которые означают, что одно и то же действие повторяется несколько раз.
+
 
 #### ~ tutorialhint 
-Try changing the number inside the "repeat" block.
+Попробуй изменить число внутри блока "повторить".
 
 ```ghost
 hoc2023Objectives.pillar_AgentMove()

@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Yellow Pillar
+# Желтый столб
 
 ## Step 1
-This code won't get you to the Yellow Pillar. Press the green button and watch the AGENT build. Notice the mistakes the AGENT makes. Fix those mistakes and get the AGENT to build a bridge that you can cross to the Yellow Pillar.
+Этот код не приведет тебя к Желтому Столбу. Нажми зеленую кнопку и посмотри, как АГЕНТ строит. Обрати внимание на ошибки, которые допускает АГЕНТ. Исправь эти ошибки и заставь АГЕНТА построить мост, по которому ты сможешь перейти к Желтому Столбу.
 
 #### ~ tutorialhint 
-It looks like the agent is not completing the bridge.
+Похоже, что агент не завершает строительство моста.
 
 ```ghost
 hoc2023Objectives.pillar_AgentMove()

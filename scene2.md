@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lawnmower
+# Газонокосилка
 
 ## Step 1
-Press the green arrow to test the Smart Mower's code. Running over sprinkler heads and causing damage? It isn't looking too smart now! Let's make it Safe and Reliable by changing its code so that it checks for sprinkler heads BEFORE it starts cutting the grass.
+Нажми зеленую стрелку, чтобы протестировать код Умной Газонокосилки. Она повреждает поливочные головки? Сейчас она не выглядит такой уж умной! Давай сделаем её безопасной и надежной, изменив код так, чтобы она проверяла наличие поливочных головок ДО того, как начнет косить траву.
 
 #### ~ tutorialhint 
-Remove the ``||hoc2023Objectives:cut grass||`` block with one of the other blocks in the tool box.
+Замени блок ``||hoc2023Objectives:cut grass||`` одним из других блоков.
 
 ```ghost
     hoc2023Objectives.scene2_GrassCut()
